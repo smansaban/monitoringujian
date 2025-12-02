@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://script.google.com/a/macros/sman1banjar.sch.id/s/AKfycbxpRulhvOwj5cauRlPHZ_wWX0vTl1qsNS2RBPy32ETViwNYjGodi36dNU_YMUptOLza/exec",
+      "permanent": false
+    }
+  ]
+}
